@@ -1,4 +1,5 @@
 data/
+EDA/diamonds_big.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
