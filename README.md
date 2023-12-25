@@ -1,6 +1,2 @@
-Репозиторий для проектного задания
-
-1. Создайте публичный репозиторий на GitHub
-2. Добавьте в коллабораторы пользователя aiedu-courses
-3. Заполните README описанием задачи
-4. В ответе укажите ссылку на репозиторий
+Notebooks and projects for AI Education on Stepik
+https://stepik.org/users/628121134/teach
